@@ -28,7 +28,7 @@ This project was developed collaboratively with clearly defined responsibilities
 * **Paghallavan**
   *Presentation*
 
-  * Designed presentation and demo narrative
+  * Designed presentation 
 
 ---
 
