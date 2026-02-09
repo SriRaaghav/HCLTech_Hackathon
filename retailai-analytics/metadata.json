@@ -1,0 +1,5 @@
+{
+  "name": "RetailAI Analytics",
+  "description": "A professional dashboard for predicting customer future value and purchase probability using a Python/FastAPI backend.",
+  "requestFramePermissions": []
+}
